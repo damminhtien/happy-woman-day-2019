@@ -1,0 +1,3 @@
+[build]
+  command = "npm run bin/www"
+  functions = "functions"
